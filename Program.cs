@@ -1,9 +1,13 @@
-﻿namespace CSharpCourse
+﻿using CSharpCourse.ClassesEMetodos;
+
+namespace CSharpCourse
 {
     class Program
     {
         static void Main(string[] args)
         {
+            // Classes e Métodos
+            Membros.Executar();
         }
     }
 }
