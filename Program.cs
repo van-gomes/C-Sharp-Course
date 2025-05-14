@@ -9,6 +9,7 @@ namespace CSharpCourse
             // Classes e Métodos
             Membros.Executar();
             Construtores.Executar();
+            MetodosComRetorno.Executar();
         }
     }
 }
