@@ -10,6 +10,7 @@ namespace CSharpCourse
             Membros.Executar();
             Construtores.Executar();
             MetodosComRetorno.Executar();
+            MetodosEstaticos.Executar();
         }
     }
 }
