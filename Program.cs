@@ -11,6 +11,8 @@ namespace CSharpCourse
             Construtores.Executar();
             MetodosComRetorno.Executar();
             MetodosEstaticos.Executar();
+            AtributosEstaticos.Executar();
+            DesafioAtributo.Executar();
         }
     }
 }
