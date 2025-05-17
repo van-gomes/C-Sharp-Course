@@ -13,6 +13,7 @@ namespace CSharpCourse
             MetodosEstaticos.Executar();
             AtributosEstaticos.Executar();
             DesafioAtributo.Executar();
+            Params.Executar();
         }
     }
 }
