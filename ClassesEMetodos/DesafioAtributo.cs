@@ -1,17 +1,15 @@
 namespace CSharpCourse.ClassesEMetodos;
 
-public class DesafioAtributo
+class DesafioAtributo
 {
     int a = 10;
 
-    public DesafioAtributo(int a)
+    public static void Executar()
     {
-        this.a = a;
-    }
-    
-    public static void Executar() {
-     var a = new DesafioAtributo(a: 10);
+        // Acessar variável 'a' dentro do método Executar!
+        // Console.WriteLine(a);
 
-     Console.WriteLine(a);
+        DesafioAtributo desafio = new DesafioAtributo();
+        Console.WriteLine(desafio.a);
     }
 }
