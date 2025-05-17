@@ -15,6 +15,7 @@ namespace CSharpCourse
             DesafioAtributo.Executar();
             Params.Executar();
             ParametrosNomeados.Executar();
+            GetSet.Executar();
         }
     }
 }
