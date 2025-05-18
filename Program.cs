@@ -16,6 +16,7 @@ namespace CSharpCourse
             Params.Executar();
             ParametrosNomeados.Executar();
             GetSet.Executar();
+            Propriedades.Executar();
         }
     }
 }
