@@ -22,6 +22,7 @@ namespace CSharpCourse
             StructVsClasse.Executar();
             ValorVsReferencia.Executar();
             ParametrosPorReferencia.Executar();
+            ParametroPadrao.Executar();
         }
     }
 }
