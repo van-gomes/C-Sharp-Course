@@ -18,6 +18,10 @@ namespace CSharpCourse
             GetSet.Executar();
             Propriedades.Executar();
             Readonly.Executar();
+            ExemploStruct.Executar();
+            StructVsClasse.Executar();
+            ValorVsReferencia.Executar();
+            ParametrosPorReferencia.Executar();
         }
     }
 }
