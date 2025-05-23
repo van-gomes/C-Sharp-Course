@@ -1,6 +1,6 @@
 namespace CSharpCourse.Colecoes;
 
-public class Array
+public class ColecoesList
 {
     
 }
