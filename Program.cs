@@ -1,4 +1,6 @@
 ﻿using CSharpCourse.ClassesEMetodos;
+using CSharpCourse.Colecoes;
+using CursoCSharp.Colecoes;
 
 namespace CSharpCourse
 {
@@ -23,6 +25,15 @@ namespace CSharpCourse
             ValorVsReferencia.Executar();
             ParametrosPorReferencia.Executar();
             ParametroPadrao.Executar();
+
+            //Coleções
+            ColecoesArray.Executar();
+            ColecoesList.Executar();
+            ColecoesArrayList.Executar();
+            ColecoesSet.Executar();
+            ColecoesQueue.Executar();
+            ColecoesIgualdade.Executar();
+            ColecoesStack.Executar();
         }
     }
 }

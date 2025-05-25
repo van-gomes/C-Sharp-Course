@@ -1,6 +1,6 @@
 namespace CSharpCourse.Colecoes;
 
-class ColecaoArray
+class ColecoesArray
 {
     public static void Executar()
     {
