@@ -34,6 +34,7 @@ namespace CSharpCourse
             ColecoesQueue.Executar();
             ColecoesIgualdade.Executar();
             ColecoesStack.Executar();
+            ColecoesDictionary.Executar();
         }
     }
 }
