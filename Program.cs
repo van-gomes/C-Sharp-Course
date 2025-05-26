@@ -1,6 +1,7 @@
 ﻿using CSharpCourse.ClassesEMetodos;
 using CSharpCourse.Colecoes;
 using CursoCSharp.Colecoes;
+using CursoCSharp.OO;
 
 namespace CSharpCourse
 {
@@ -35,6 +36,10 @@ namespace CSharpCourse
             ColecoesIgualdade.Executar();
             ColecoesStack.Executar();
             ColecoesDictionary.Executar();
+            
+            //O.O
+            Heranca.Executar();
+            ConstrutorThis.Executar();
         }
     }
 }
