@@ -10,13 +10,7 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CSharpCourse")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0687608071ae3344c6ad86695b471c1ae6225a32")]
-[assembly: System.Reflection.AssemblyProductAttribute("CSharpCourse")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CSharpCourse")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 
