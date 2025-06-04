@@ -1,6 +1,7 @@
 ﻿using CSharpCourse.ClassesEMetodos;
 using CSharpCourse.Colecoes;
 using CursoCSharp.Colecoes;
+using CursoCSharp.MetodosEFuncoes;
 using CursoCSharp.OO;
 
 namespace CSharpCourse
@@ -42,6 +43,14 @@ namespace CSharpCourse
             ConstrutorThis.Executar();
             CursoCSharp.OO.Encapsulamento.Executar();
             Polimorfismo.Executar();
+            Abstract.Executar();
+            Interface.Executar();
+            Sealed.Executar();
+            
+            //Métodos e Funções
+            ExemploLambda.Executar();
+            LambdasDelegate.Executar();
+            UsandoDelegates.Executar();
         }
     }
 }
