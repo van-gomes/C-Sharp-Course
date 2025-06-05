@@ -1,0 +1,12 @@
+/home/van-gomes/Documentos/Rocketseat/asp_net/CSharpCourse/Encapsulamento/bin/Debug/net8.0/Encapsulamento.deps.json
+/home/van-gomes/Documentos/Rocketseat/asp_net/CSharpCourse/Encapsulamento/bin/Debug/net8.0/Encapsulamento.dll
+/home/van-gomes/Documentos/Rocketseat/asp_net/CSharpCourse/Encapsulamento/bin/Debug/net8.0/Encapsulamento.pdb
+/home/van-gomes/Documentos/Rocketseat/asp_net/CSharpCourse/Encapsulamento/obj/Debug/net8.0/Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/van-gomes/Documentos/Rocketseat/asp_net/CSharpCourse/Encapsulamento/obj/Debug/net8.0/Encapsulamento.AssemblyInfoInputs.cache
+/home/van-gomes/Documentos/Rocketseat/asp_net/CSharpCourse/Encapsulamento/obj/Debug/net8.0/Encapsulamento.AssemblyInfo.cs
+/home/van-gomes/Documentos/Rocketseat/asp_net/CSharpCourse/Encapsulamento/obj/Debug/net8.0/Encapsulamento.csproj.CoreCompileInputs.cache
+/home/van-gomes/Documentos/Rocketseat/asp_net/CSharpCourse/Encapsulamento/obj/Debug/net8.0/Encapsulamento.sourcelink.json
+/home/van-gomes/Documentos/Rocketseat/asp_net/CSharpCourse/Encapsulamento/obj/Debug/net8.0/Encapsulamento.dll
+/home/van-gomes/Documentos/Rocketseat/asp_net/CSharpCourse/Encapsulamento/obj/Debug/net8.0/refint/Encapsulamento.dll
+/home/van-gomes/Documentos/Rocketseat/asp_net/CSharpCourse/Encapsulamento/obj/Debug/net8.0/Encapsulamento.pdb
+/home/van-gomes/Documentos/Rocketseat/asp_net/CSharpCourse/Encapsulamento/obj/Debug/net8.0/ref/Encapsulamento.dll
