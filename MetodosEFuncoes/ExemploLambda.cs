@@ -25,7 +25,7 @@ namespace CursoCSharp.MetodosEFuncoes
 
             Func<int, int, int, string> formatarData = (dia, mes, ano) =>
                 String.Format("{0:D2}/{1:D2}/{2:D4}", dia, mes, ano);
-            Console.WriteLine(formatarData(1, 1, 2019));
+            Console.WriteLine(formatarData(1, 1, 2025));
         }
     }
 }
