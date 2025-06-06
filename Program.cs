@@ -49,6 +49,8 @@ namespace CSharpCourse
             
             //Métodos e Funções
             ExemploLambda.Executar();
+            LambdasDelegate.Executar();
+            UsandoDelegates.Executar();
         }
     }
 }
