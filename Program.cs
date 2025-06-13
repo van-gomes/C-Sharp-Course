@@ -1,6 +1,8 @@
 ﻿using CSharpCourse.ClassesEMetodos;
 using CSharpCourse.Colecoes;
+using CursoCSharp.Api;
 using CursoCSharp.Colecoes;
+using CursoCSharp.Excecoes;
 using CursoCSharp.MetodosEFuncoes;
 using CursoCSharp.OO;
 
@@ -54,6 +56,16 @@ namespace CSharpCourse
             DelegateFunAnonima.Executar();
             DelegatesComoParametros.Executar();
             MetodosDeExtensao.Executar();
+            
+            //Exceções
+            PrimeiraExcecao.Executar();
+            ExcecoesPersonalizadas.Executar();
+            
+            //Explorando API C#
+            PrimeiroArquivo.Executar();
+            LendoArquivos.Executar();
+            ExemploFileInfo.Executar();
+            Diretorios.Executar();
         }
     }
 }
