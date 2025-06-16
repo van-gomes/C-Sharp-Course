@@ -64,8 +64,11 @@ namespace CSharpCourse
             //Explorando API C#
             PrimeiroArquivo.Executar();
             LendoArquivos.Executar();
-            ExemploFileInfo.Executar();
-            Diretorios.Executar();
+            //ExemploFileInfo.Executar();
+            //Diretorios.Executar();
+            //ExemploDirectoryInfo.Executar();
+            //ExemploPath.Executar();
+            //ExemploTimeSpan.Executar();
         }
     }
 }
