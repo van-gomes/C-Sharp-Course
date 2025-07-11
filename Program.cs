@@ -5,6 +5,7 @@ using CursoCSharp.Colecoes;
 using CursoCSharp.Excecoes;
 using CursoCSharp.MetodosEFuncoes;
 using CursoCSharp.OO;
+using CursoCSharp.TopicosAvancados;
 
 namespace CSharpCourse
 {
@@ -69,6 +70,9 @@ namespace CSharpCourse
             //ExemploDirectoryInfo.Executar();
             //ExemploPath.Executar();
             //ExemploTimeSpan.Executar();
+            
+            //Tópicos avançados
+            LINQ1.Executar();
         }
     }
 }
