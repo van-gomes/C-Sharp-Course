@@ -73,6 +73,8 @@ namespace CSharpCourse
             
             //Tópicos avançados
             LINQ1.Executar();
+            LINQ2.Executar();
+            Nullables.Executar();
         }
     }
 }
