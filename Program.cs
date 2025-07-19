@@ -75,6 +75,8 @@ namespace CSharpCourse
             LINQ1.Executar();
             LINQ2.Executar();
             Nullables.Executar();
+            Dynamics.Executar();
+            Genericos.Executar();
         }
     }
 }
